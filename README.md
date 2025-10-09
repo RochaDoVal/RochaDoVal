@@ -19,7 +19,7 @@ Busco constantemente aprimorar minhas habilidades por meio de desafios, estudos 
 - 🏅 Participação em **jornadas acadêmicas** e **treinamentos para maratonas de programação**.  
 - 🧩 Experiência prática com **Python**, **Java**, **React** e **MySQL**.  
 - 🤝 Projetos acadêmicos e **parcerias com instituições** (ex.: contribuição em site para **APAE Balsas**).  
-- 🛡️ Estudos em **Segurança da Informação** (análise de incidentes como o ransomware da Lojas Renner – estudo acadêmico).
+- 🛡️ Estudos em **Segurança da Informação** (estudo de caso – _incidente de ransomware_).
 
 ---
 
