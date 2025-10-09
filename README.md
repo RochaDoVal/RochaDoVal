@@ -1,16 +1,55 @@
-### Olá!
+# Olá 👋, eu sou Pedro Vítor Rocha Do Val!
 
+🎓 Estudante de Sistemas de Informação | Desenvolvedor em Formação com foco em Java + Spring Boot
 
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pedro-vitor-rocha-do-val/)
+---
 
+## 🔧 Sobre mim
+Sou estudante de Sistemas de Informação na Faculdade de Balsas (UniBalsas), com conhecimentos em Java, Spring Boot e React, focado em desenvolver soluções práticas e eficientes em projetos de tecnologia.
+Busco constantemente aprimorar minhas habilidades por meio de desafios, estudos e experiências reais de desenvolvimento.
 
-![DoVal GitHub stats](https://github-readme-stats.vercel.app/api?username=RochaDoVal&show_icons=true&theme=dracula)
+### 📬 Contatos
+- ✉️ **Email:** pedrovitorrochang@gmail.com  
+- 💼 **LinkedIn:** https://www.linkedin.com/in/pedro-vitor-rocha-do-val/
+- 💬 **WhatsApp:** +55 99 9 9160 3815
 
-## Tecnologias que uso no meu dia a dia
+---
 
-<div style="display: inline_block"><br/>
-  <img align="center" alt=Js src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img align="center" alt=Js src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" />
-  <img align="center" alt=Js src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
-  
-</div>
+## ✨ Destaques
+- 🏅 Participação em **jornadas acadêmicas** e **treinamentos para maratonas de programação**.  
+- 🧩 Experiência prática com **Python**, **Java**, **React** e **MySQL**.  
+- 🤝 Projetos acadêmicos e **parcerias com instituições** (ex.: contribuição em site para **APAE Balsas**).  
+- 🛡️ Estudos em **Segurança da Informação** (análise de incidentes como o ransomware da Lojas Renner – estudo acadêmico).
+
+---
+
+## 🧠 Tecnologias & Habilidades
+
+### Linguagens / Frameworks
+- **Java + Spring Boot** ☕
+- **React** ⚛️  
+
+### Bancos de dados
+- **MySQL** 🐬  
+
+### Ferramentas & Outras
+- Git & GitHub • REST APIs • Docker (básico) • Postman • Figma (básico)  
+- Escrita técnica, documentação e organização de projetos
+
+---
+
+## 💼 Experiência & Projetos Relevantes
+
+### 📌 Extensão/Voluntariado — **APAE Balsas**
+- Contribuição para **modernização de site/sistema** institucional.  
+- Coleta de requisitos, prototipação e entregas iterativas.
+
+### 🎓 Projetos acadêmicos
+- **Segurança & Auditoria**: estudo de caso – _incidente de ransomware_ (análise de vetores, impactos e mitigação).  
+
+---
+
+## 📈 O que estou estudando agora
+- **Java + Spring Boot**
+- **NoSQL**
+- **Boas práticas de APIs REST**
